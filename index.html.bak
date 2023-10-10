@@ -100,11 +100,11 @@
               class="carousel-control-next" type="button" data-bs-target="#carouselExample"
 
               data-bs-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="visually-hidden">Next</span> </button> </div>
+              <span class="visually-hidden">Next</span> </button><br> </div>
         </div>
       </div>
       <div class="row">
-        <br><p class="padding color-1 border-text"> I am a <b>committee member</b>
+        <p class="padding color-1 border-text"> I am a <b>committee member</b>
           in a dance club of the Faculty of Arts, Silpakorn University. It's
           called <b><a href="https://www.instagram.com/adc.silpa/" target="_blank"
 
