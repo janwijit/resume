@@ -11,10 +11,10 @@ display: flex;
 justify-content: space-around;
 }
 
-h3{
+h1{
 font-family: "Trebuchet MS", serif;
 font-weight: bold;
-font-size: clamp(46px, 2.5vw, 32px);
+font-size: clamp(36px, 2.5vw, 32px);
 background-color: #DBD2F4;
 color : #2B192E
 }
@@ -68,6 +68,10 @@ border-color: #DD9296;
 h6{
 font-family: "Trebuchet MS", serif;
 font-size: 110%;
+}
+
+ul{
+font-family: "Trebuchet MS", serif;
 }
 
 
